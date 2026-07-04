@@ -1,4 +1,4 @@
-# Hi there, I'm Nerupu Navin 👋
+# Hi there, I'm Navinkumar👋
 
 🎓 Computer Science Engineering Student | 💻 Full-Stack Developer | 📱 Flutter Developer | 🤖 AI Enthusiast
 
