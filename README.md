@@ -4,6 +4,7 @@
 
 I'm passionate about building software that solves real-world problems. From developing scalable web applications and cross-platform mobile apps to integrating AI into modern workflows, I enjoy transforming ideas into practical, impactful solutions.
 
+
 I also love exploring Linux, customizing my development environment, and leveraging open-source tools to boost productivity. I'm always learning, experimenting with new technologies, and challenging myself through hands-on projects.
 
 ### 🚀 Tech & Interests
