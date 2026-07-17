@@ -7,7 +7,7 @@ I'm passionate about building software that solves real-world problems. From dev
 
 I also love exploring Linux, customizing my development environment, and leveraging open-source tools to boost productivity. I'm always learning, experimenting with new technologies, and challenging myself through hands-on projects.
 
-### 🚀 Tech & Interests
+### Tech & Interests :
 - 🌐 MERN Stack Development
 - 📱 Flutter App Development
 - 🤖 AI-Powered Applications & Automation
